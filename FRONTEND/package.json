@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@syncfusion/ej2-vue-calendars": "^35.1.39",
+    "axios": "^1.20.0",
+    "vue-dropdown-datepicker": "^2.0.0"
+  }
+}
